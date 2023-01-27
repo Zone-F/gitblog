@@ -13,8 +13,8 @@ on:
       - main.py
 
 env:
-  GITHUB_NAME: zone98f
-  GITHUB_EMAIL: zone_98f@qq.com
+  GITHUB_NAME: Zone-F
+  GITHUB_EMAIL: 1191066968@qq.com
 
 jobs:
   sync:
